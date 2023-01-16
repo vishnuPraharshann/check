@@ -1,5 +1,10 @@
-def addtwo(a,b)
-	return a+b
-b=addtwo(5,6)
-c=addtwo(7,8)
-print(b*c)
+def add(x,y):
+	pass
+def substract(x,y):
+	pass
+def multiply(x,y):
+	return x*y
+def divide(x,y):
+	return (x/y)
+def square(x):
+	pass
